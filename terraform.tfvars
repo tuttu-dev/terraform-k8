@@ -1,8 +1,8 @@
 # GCP Settings
-project_id          = "complete-octane-281203" # Enter your project ID here.
+project_id          = "us-con-gcp-npr-0000028-073118" # Enter your project ID here.
 container_registry  = "gcr.io"
-external_image_name = "external-image:v1.0.0"
-internal_image_name = "internal-image:v1.0.0"
+external_image_name = "external-image:v2"
+internal_image_name = "internal-image:v2"
 
 # The image used by the deployments will be a URL created from 
 # combining the above vars. For Example: 
