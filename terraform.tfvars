@@ -8,9 +8,9 @@ internal_image_name = "internal-image:v2"
 # combining the above vars. For Example: 
 # container_registry/project_id/external_image_name
 
-gcp_region_1 = "us-central1"
-gcp_zone_1   = "us-central1-a"
+gcp_region_1 = "us-east1"
+gcp_zone_1   = "us-east1-a"
 
 # Application Name (used in resource names, no spaces.)
-app_name = "events-feed"
+app_name = "capstone"
 
