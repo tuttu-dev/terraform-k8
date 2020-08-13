@@ -1,5 +1,5 @@
 # GCP Settings
-project_id          = "sincere-scheme-272009" # Enter your project ID here.
+project_id          = "us-con-gcp-npr-0000028-073118" # Enter your project ID here.
 container_registry  = "gcr.io"
 external_image_name = "external-image:v2"
 internal_image_name = "internal-image:v2"
